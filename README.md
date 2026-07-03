@@ -1,7 +1,2 @@
-# finale
-# finale
-# finale
-# finale
-# finale
-# finale
-# finale
+# MVP 개발 과정 중
+당장은 가~~장 기본적인 틀만 구성한 상태라고 보면 됨
